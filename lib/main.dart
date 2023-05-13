@@ -2,6 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
+/*
+Anggota:
+Deva & Farah Dwi 
+*/
+
 class Universitas {
   String nama;
   String univ;
